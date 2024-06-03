@@ -1,6 +1,6 @@
 # Gestão de Pragas e Doenças
 
-Este projeto é uma aplicação web que visualiza dados de pragas e zonas ajudadas em diferentes países. Ele usa a API do Google Charts para criar gráficos geográficos interativos.
+Este projeto é uma aplicação web que visualiza dados de pragas e zonas ajudadas em diferentes países. Ele usa a API do Google Charts para criar gráficos geográficos interativos. Os dados são armazenados em um banco de dados MySQL.
 
 ## Tecnologias Utilizadas
 
