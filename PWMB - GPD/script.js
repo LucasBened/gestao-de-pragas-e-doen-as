@@ -34,7 +34,7 @@ function drawCharts() {
         legend: "none",
         backgroundColor: "none",
         tooltip: { isHtml: true },
-        colorAxis: { colors: ["#e31b23",  "#e31b23"] },
+        colorAxis: { colors: ["#e31b23", "#e31b23"] },
       };
 
       const chart = new google.visualization.GeoChart(
@@ -45,7 +45,7 @@ function drawCharts() {
     .catch((error) => {
       console.error("Erro ao buscar dados das pragas:", error);
     });
-    
+
   fetch("http://localhost:3000/zonas_ajudadas")
     .then((response) => response.json())
     .then((data) => {
