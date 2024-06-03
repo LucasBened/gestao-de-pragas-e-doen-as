@@ -17,7 +17,7 @@ Este projeto é uma aplicação web que visualiza dados de pragas e zonas ajudad
 
 ## Estrutura do Projeto
 
-O projeto consiste em três arquivos principais:
+O projeto consiste em quatro arquivos principais:
 
 - `index.html`: Este é o arquivo principal que contém a estrutura HTML da página.
 - `style.css`: Este arquivo contém todos os estilos CSS usados no projeto.
