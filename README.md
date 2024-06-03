@@ -20,8 +20,9 @@ O projeto consiste em três arquivos principais:
 
 - `index.html`: Este é o arquivo principal que contém a estrutura HTML da página.
 - `style.css`: Este arquivo contém todos os estilos CSS usados no projeto.
-- `main.js`: Este arquivo contém todo o código JavaScript usado para buscar os dados e criar os gráficos.
-
+- `script.js`: Este arquivo contém todo o código JavaScript usado para buscar os dados e criar os gráficos.
+- `server.js`: Este é o arquivo do servidor, necessário usar um node script.js para que funcione corretamente.
+- 
 ## Funcionalidades
 
 O projeto tem duas funcionalidades principais:
