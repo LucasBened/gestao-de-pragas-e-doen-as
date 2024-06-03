@@ -12,7 +12,8 @@ Este projeto é uma aplicação web que visualiza dados de pragas e zonas ajudad
 ## Como Rodar o Projeto
 
 1. Clone o repositório para a sua máquina local usando `git clone`.
-2. Abra o arquivo `index.html` em seu navegador.
+2. Use o comando node script.js no terminal para ligar o servidor.
+3. Abra o arquivo `index.html` em seu navegador.
 
 ## Estrutura do Projeto
 
