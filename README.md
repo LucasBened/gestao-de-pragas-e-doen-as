@@ -23,7 +23,7 @@ O projeto consiste em quatro arquivos principais:
 - `style.css`: Este arquivo contém todos os estilos CSS usados no projeto.
 - `script.js`: Este arquivo contém todo o código JavaScript usado para buscar os dados e criar os gráficos.
 - `server.js`: Este é o arquivo do servidor, necessário usar um node script.js para que funcione corretamente.
-- 
+  
 ## Funcionalidades
 
 O projeto tem duas funcionalidades principais:
