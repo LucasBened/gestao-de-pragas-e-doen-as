@@ -7,6 +7,7 @@ Este projeto é uma aplicação web que visualiza dados de pragas e zonas ajudad
 - HTML
 - CSS
 - JavaScript
+- Java
 - MySQL
 - Google Charts API
 
