@@ -20,6 +20,8 @@ Este projeto é uma aplicação web que visualiza dados de pragas e zonas ajudad
 
 O projeto consiste em quatro arquivos principais:
 
+- `gestao-pragas` Programa usado para alimentar o banco de dados:
+- `dadosgestao.sql`: Este arquivo contém o script do banco de dados: 
 - `index.html`: Este é o arquivo principal que contém a estrutura HTML da página.
 - `style.css`: Este arquivo contém todos os estilos CSS usados no projeto.
 - `script.js`: Este arquivo contém todo o código JavaScript usado para buscar os dados e criar os gráficos.
