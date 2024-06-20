@@ -14,14 +14,17 @@ Este projeto é uma aplicação web que visualiza dados de pragas e zonas ajudad
 ## Como Rodar o Projeto
 
 1. Clone o repositório para a sua máquina local usando `git clone`.
-2. Use o comando node script.js no terminal para ligar o servidor.
-3. Abra o arquivo `index.html` em seu navegador.
+2. Abra o `dadosgestao.sql` no MYSQL Workbench.
+3. Abra o programa `gesta-pragas` onde seja suportado programas feitos em java, neste caso feito no Apache Netbeans.
+4. Alimente o banco de dados com as funcionalidades do programa.
+5. Use o comando node script.js no terminal para ligar o servidor.
+6. Abra o arquivo `index.html` em seu navegador.
 
 ## Estrutura do Projeto
 
 O projeto consiste em quatro arquivos principais:
 
-- `gestao-pragas` Programa usado para alimentar o banco de dados:
+- `gestao-pragas` Programa usado para alimentar o banco de dados (feito no Apache Netbeans):
 - `dadosgestao.sql`: Este arquivo contém o script do banco de dados: 
 - `index.html`: Este é o arquivo principal que contém a estrutura HTML da página.
 - `style.css`: Este arquivo contém todos os estilos CSS usados no projeto.
