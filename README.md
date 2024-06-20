@@ -13,7 +13,7 @@ Este projeto é uma aplicação web que visualiza dados de pragas e zonas ajudad
 - ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 - ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
-- ![GoogleCharts](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) 
+- ![GoogleCharts](https://img.shields.io/badge/Google_Charts-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) 
 
 ## Como Rodar o Projeto
 
