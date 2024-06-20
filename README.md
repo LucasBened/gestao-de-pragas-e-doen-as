@@ -1,3 +1,9 @@
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+
 # Gestão de Pragas e Doenças
 
 Este projeto é uma aplicação web que visualiza dados de pragas e zonas ajudadas em diferentes países. Ele usa a API do Google Charts para criar gráficos geográficos interativos. Os dados são armazenados em um banco de dados MySQL.
