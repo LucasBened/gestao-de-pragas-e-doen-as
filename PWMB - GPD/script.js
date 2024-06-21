@@ -1,6 +1,6 @@
 google.charts.load("current", {
   packages: ["geochart"],
-  mapsApiKey: "AIzaSyCmgtGtfGPB_GWr5KceD7bF2VIsjDIvRbY",
+  mapsApiKey: "",
 });
 google.charts.setOnLoadCallback(drawCharts);
 
